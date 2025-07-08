@@ -1,7 +1,6 @@
-![Blue Green Geometric Company LinkedIn Banner](https://github.com/user-attachments/assets/e3d86dd4-9be1-4e4f-badd-3556ffb8e082)
+![img](https://github.com/user-attachments/assets/67c880d4-6b35-4e36-a6ca-d4e789896d98)
 
-
-# Bem-vindo ao CoLabs Kunumi
+# Bem-vindo ao Kunumi Co-Labs
 
 > Este é o repositório oficial dos laboratórios Kunumi — uma rede colaborativa de laboratórios de inteligência artificial espalhados por todo o Brasil 🇧🇷.
 
@@ -13,11 +12,11 @@ Fomentar o desenvolvimento de pesquisas e soluções inovadoras em IA, com foco 
 ---
 ## Recursos úteis
 
-- [Templates de Issues](./ISSUE_TEMPLATE)
-- [Templates de Pull Requests](./PULL_REQUEST_TEMPLATE.md)
-- [Workflows de CI/CD](./workflows)
-- [Código de Conduta](./CODE_OF_CONDUCT.md)
-- [Guia de Contribuição](./CONTRIBUTING.md)
+- [Código de Conduta](https://github.com/Co-Labs-Kunumi/.github/blob/main/docs/CODE_OF_CONDUCT.md)
+- [Guia de Contribuição](https://github.com/Co-Labs-Kunumi/.github/blob/main/docs/CONTRIBUTING.md)
+- [Templates de Issues](https://github.com/Co-Labs-Kunumi/.github/blob/main/docs/ISSUES.md)
+- [Templates de Pull Requests](https://github.com/Co-Labs-Kunumi/.github/blob/main/docs/PRs_TEMPLATE.md)
+- [ (Em Construção) Workflows de CI/CD](./workflows)
 
 ---
 ## Contato
