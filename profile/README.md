@@ -19,6 +19,15 @@ Fomentar o desenvolvimento de pesquisas e soluções inovadoras em IA, com foco 
 - [ (Em Construção) Workflows de CI/CD](./workflows)
 
 ---
+## Privacidade e Segurança
+
+Todos os repositórios da organização Co-Labs Kunumi são, por padrão, **privados**, garantindo a proteção de dados sensíveis, ideias em desenvolvimento e estratégias técnicas.
+
+A gestão de permissões segue os seguintes princípios:<br>
+1. **Acesso de Escrita** é concedido apenas aos membros do time responsável pelo repositório.<br>
+2. **Acesso de Leitura** é permitido para todos os membros da organização, promovendo transparência e colaboração entre laboratórios.
+
+---
 ## Contato
 
 Tem dúvidas ou sugestões? Entre em contato conosco pelo e-mail **contato@kunumi.ai** ou abra uma discussão na organização.
