@@ -1,4 +1,4 @@
-![img](https://github.com/user-attachments/assets/67c880d4-6b35-4e36-a6ca-d4e789896d98)
+<img width="3072" height="768" alt="upscalemedia-transformed" src="https://github.com/user-attachments/assets/7d94484e-af3f-4f83-b23b-7dfa599b239b" />
 
 # Bem-vindo ao Kunumi Co-Labs
 
