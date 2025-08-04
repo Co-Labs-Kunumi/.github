@@ -2,12 +2,12 @@
 
 # Bem-vindo ao Kunumi Co-Labs
 
-> Este é o repositório oficial dos laboratórios Kunumi — uma rede colaborativa de laboratórios de inteligência artificial espalhados por todo o Brasil 🇧🇷.
+> Este é o repositório oficial dos Co-Labs Kunumi — uma rede colaborativa que articula pesquisadores, universidades, governo e mercado para impulsionar a produção de conhecimento e inovação em inteligência artificial a partir do Sul Global.
 
 ---
 ## Nossa missão
 
-Fomentar o desenvolvimento de pesquisas e soluções inovadoras em IA, com foco em sistemas multi-agentes, modelos de linguagem, combate à desinformação e educação.
+Impulsionar a produção de conhecimento e soluções em inteligência artificial com foco em inovação sistêmica, desenvolvimento científico e valorização de perspectivas do Sul Global.
 
 ---
 ## Recursos úteis
@@ -30,4 +30,4 @@ A gestão de permissões segue os seguintes princípios:<br>
 ---
 ## Contato
 
-Tem dúvidas ou sugestões? Entre em contato conosco pelo e-mail **contato@kunumi.ai** ou abra uma discussão na organização.
+Tem dúvidas ou sugestões? Entre em contato conosco pelo e-mail **contato@kunumi.com** ou abra uma discussão na organização.
