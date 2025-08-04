@@ -3,15 +3,15 @@
 ---
 ## Compromisso
 
-Como colaboradores dos **Kunumi Labs**, nos comprometemos a cultivar um ambiente aberto, acolhedor, inclusivo e respeitoso para todos, independentemente de idade, etnia, identidade ou expressão de gênero, orientação sexual, deficiência, nível de experiência, nacionalidade ou religião.
+Como parte de uma rede colaborativa que articula pesquisadores, universidades, governo e mercado, nos comprometemos a cultivar um ambiente aberto, acolhedor, inclusivo e respeitoso. Valorizamos a diversidade de perspectivas e experiências, independentemente de idade, etnia, identidade ou expressão de gênero, orientação sexual, deficiência, nível de experiência, nacionalidade ou religião.
 
 ---
 ## Padrões Esperados
 
-Exemplos de comportamento que contribuem para um ambiente positivo incluem:
+Comportamentos que fortalecem um ambiente seguro e construtivo incluem:
 
-- Usar linguagem acolhedora e inclusiva
-- Respeitar diferentes pontos de vista e experiências
-- Aceitar críticas construtivas de forma profissional
-- Focar no que é melhor para o projeto e a comunidade
-- Demonstrar empatia e respeito com outros colaboradores
+- Adotar uma comunicação acolhedora, respeitosa e inclusiva
+- Valorizar a escuta ativa e a troca entre diferentes pontos de vista
+- Receber críticas construtivas com abertura e profissionalismo
+- Priorizar o bem coletivo da rede e o avanço dos projetos
+- Agir com empatia, respeito mútuo e compromisso com a comunidade
