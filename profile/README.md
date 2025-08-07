@@ -1,8 +1,8 @@
 <img width="3072" height="768" alt="upscalemedia-transformed" src="https://github.com/user-attachments/assets/7d94484e-af3f-4f83-b23b-7dfa599b239b" />
 
-# Bem-vindo ao Kunumi Co-Labs
+# Boas-vindas ao Kunumi Co-Labs
 
-> Este é o repositório oficial dos Co-Labs Kunumi — uma rede colaborativa que articula pesquisadores, universidades, governo e mercado para impulsionar a produção de conhecimento e inovação em inteligência artificial a partir do Sul Global.
+> Este é o repositório oficial dos Co-Labs Kunumi — uma rede de colaboração com universidades que fortalece a pesquisa em inteligência artificial a partir do Sul Global.
 
 ---
 ## Diretrizes da Organização
@@ -14,5 +14,4 @@ Conheça nossas [Diretrizes](https://github.com/Co-Labs-Kunumi/Diretrizes)!
 ---
 ## Nossa missão
 
-Impulsionar a produção de conhecimento e soluções em inteligência artificial com foco em inovação sistêmica, desenvolvimento científico e valorização de perspectivas do Sul Global.
-
+Fortalecer a pesquisa em inteligência artificial a partir do Sul Global, por meio de parcerias com universidades comprometidas com a transformação social, a inovação sistêmica e o avanço científico.
